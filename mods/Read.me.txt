@@ -1,0 +1,6 @@
+Diablo II Resurrected/mods
+
+
+Zusätzliche Befehlszeillenargumente
+
+-mod d2supporter -txt
